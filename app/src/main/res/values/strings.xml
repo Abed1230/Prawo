@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Prawo</string>
+    <string name="title_main_activity">Collections</string>
+    <string name="title_activity_add_edit_collection">New collection</string>
+    <string name="title_dialog_add_edit_item">New item</string>
+    <string name="title_menu_item_add">Add</string>
+    <string name="title_menu_item_edit">Edit</string>
+    <string name="title_menu_item_save">Save</string>
+
+    <string name="hint_title">Title</string>
+    <string name="hint_select_image">Select image</string>
+    <string name="hint_original_text">Original text</string>
+    <string name="hint_translated_text">Translated text</string>
+    <string name="hint_original_audio">Pronunciation audio</string>
+    <string name="hint_translated_audio">Translated pronunciation audio</string>
+
+    <string name="add">Add</string>
+    <string name="items">Items</string>
+    <string name="choose_audio">Choose audio</string>
+    <string name="listen">Listen</string>
+
 </resources>
