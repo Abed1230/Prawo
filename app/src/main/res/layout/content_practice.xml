@@ -39,12 +39,11 @@
 
     <View
         android:id="@+id/divider"
+        style="@style/Divider"
         android:layout_width="0dp"
-        android:layout_height="2dp"
         android:layout_marginStart="@dimen/margin_medium"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="@dimen/margin_medium"
-        android:background="@color/grey"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_original" />
