@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fillViewport="true"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".AddEditCollectionActivity"
+    tools:context=".ui.addedit.AddEditCollectionActivity"
     tools:showIn="@layout/activity_add_edit_collection">
 
     <android.support.constraint.ConstraintLayout

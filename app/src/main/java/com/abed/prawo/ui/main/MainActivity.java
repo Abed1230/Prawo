@@ -1,4 +1,4 @@
-package com.abed.prawo;
+package com.abed.prawo.ui.main;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,6 +6,10 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.abed.prawo.ui.addedit.AddEditCollectionActivity;
+import com.abed.prawo.ui.practice.PracticeActivity;
+import com.abed.prawo.R;
 
 public class MainActivity extends AppCompatActivity {
 

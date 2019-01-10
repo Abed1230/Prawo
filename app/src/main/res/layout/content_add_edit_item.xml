@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fillViewport="true"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".AddEditItemDialog"
+    tools:context=".ui.addedit.AddEditItemDialog"
     tools:showIn="@layout/dialog_add_edit_item">
 
     <android.support.constraint.ConstraintLayout

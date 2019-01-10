@@ -1,4 +1,4 @@
-package com.abed.prawo;
+package com.abed.prawo.ui.addedit;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -9,6 +9,8 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.abed.prawo.R;
 
 public class AddEditItemDialog extends AppCompatDialogFragment {
 

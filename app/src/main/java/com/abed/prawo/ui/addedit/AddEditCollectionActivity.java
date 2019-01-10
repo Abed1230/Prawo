@@ -1,4 +1,4 @@
-package com.abed.prawo;
+package com.abed.prawo.ui.addedit;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
+
+import com.abed.prawo.R;
 
 public class AddEditCollectionActivity extends AppCompatActivity {
 
