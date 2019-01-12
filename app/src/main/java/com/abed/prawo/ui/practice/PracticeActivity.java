@@ -8,6 +8,7 @@ import android.view.Menu;
 import com.abed.prawo.R;
 
 public class PracticeActivity extends AppCompatActivity {
+    public static final String KEY_COLLECTION_ID = "collection_id";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
